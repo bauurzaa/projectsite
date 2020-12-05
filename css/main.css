@@ -1,0 +1,492 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 1300px;
+    height: 500px;
+    background-image: url('../img/site-hero2.jpg');
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    width: 1140px;
+    height: 443px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+.logo{
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.cont-page-name{
+    width: 200px;
+    height: 68px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 224px;
+}
+.page-name{  
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.nav{
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.nav:hover{
+    text-decoration: underline;
+}
+.header-content1{
+    width: 1140px;
+    height: 287px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header-ltext{
+    width: 555px;
+    height: 287px;
+}
+.header-title01{
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.header-title11{ 
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.header-lt{
+    color: #60606e;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+}
+.header-rtext{
+    width: 555px;
+    height: 287px;
+}
+.header-title02{
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.header-title12{
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.header-rt{
+    color: #60606e;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+}
+.header-content2{
+    width: 1140px;
+    height: 510px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 163px;
+}
+.header-title2cont{
+    width: 716px;
+    height: 90px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+.header-title2{
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+    text-align: center;
+}
+.header-title2text{
+    color: #60606e;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+}
+.header-tablecont1{
+    width: 1140px;
+    height: 134px;  
+    margin-top: 52px;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+.el img{
+   float: left;
+    width: 40px;
+    height: 40px;
+    
+}
+.el h2{
+    position: relative;
+    left: 30px;
+}
+.table-title{
+    
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.table-text{
+
+    color: #60606e;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+}
+.header-tablecont2{
+    width: 1140px;
+    height: 134px;
+    
+    margin-top: 52px;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+.header-content3{
+    width: 1140px;
+    height: 892px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+.header-title3{
+        
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.header-title3text{
+    
+    color: #60606e;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+}
+
+.header-title3cont{
+    width: 716px;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-fotocont1{
+    width: 1140px;
+    height: 336px;
+    margin-top: 100px;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.foto {
+    width: 263px;
+    height: 333px;
+    margin-right: 30px;
+}
+
+.header-fotocont2{
+    width: 1140px;
+    height: 336px;
+    margin-top: 30px;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.panel{
+    
+    width: 1140px;
+    height: 150px;
+    background-color: #efeff0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.panel-text{
+    
+    color: #60606e;
+    font-family: "Open Sans";
+    font-size: 18px;
+    line-height: 75px;
+    margin-left: 30px;
+}
+
+.panel-btn{
+    
+    display: inline;
+   
+    
+    background-color: #7beec7;
+    margin-right: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    
+
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.panel-btn:hover{
+    text-decoration: underline;
+}
+
+.header-content5{
+        
+    width: 1300px;
+    height: 330px;
+    background-color: #7beec7;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-left: 84px;
+
+    display: flex;
+    
+    
+}
+
+.fb-panel-l{
+    width: 487px;
+    height: 150px;
+}
+
+
+.fb-text-l{
+    
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;     
+    
+}
+
+
+.fb-btn-l{
+    display: inline;
+    background-color: #ffffff;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+.btn-l-t{
+  
+    color: #7beec7;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 40px;
+}
+
+.btn-l-t:hover{
+    text-decoration: underline;
+}
+
+.fb-panel-r{
+    
+    width: 556px;
+    height: 230px;
+    background-color: #ffffff;
+    margin-left: 100px;
+    padding-left: 25px;
+}
+
+.fb-title{
+    width: 350px;
+    height: 54px;
+}
+
+.fb-title-st{
+        
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+.fb-text-r{
+    width: 480px;
+    height: 40px;
+}
+
+.fb-text-st{
+        
+    color: #999999;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.fb-email-btn{
+        
+    width: 510px;
+    height: 50px;
+    background-color: #7beec7;
+
+    margin-top: 30px;
+}
+
+.fb-email{
+    width: 375px;
+    height: 45px;
+    background-color: #ffffff;
+    border-color: #cdcdcd;;
+
+        
+    color: #cdcdcd;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+.fb-email-btn-st{
+    
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.fb-email-btn-st:hover{
+    text-decoration: underline;
+}
+
+.navig-social{
+    width: 1140px;
+    height: 56px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navig-page{
+    height: 11px;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    
+    color: #9a9a9a;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: uppercase;
+   
+}
+
+.navig-el{
+    margin-left: 15px;
+}
+
+.navig-el:first-child{
+    margin-left: 0;
+}
+
+.navig-link{
+    
+    color: #9a9a9a;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    margin-right: 15px;
+}
+
+.navig-link:hover{
+    text-decoration: underline;
+}
+

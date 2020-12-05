@@ -1,0 +1,508 @@
+body{
+    margin: 0;
+}
+
+.header{
+    width: 1300px;
+    height: 800px;
+    background-color: aqua;
+    background-image: url(../img/site-hero.jpg);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+
+.container{
+    width: 1140px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.logo{
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.title-page{
+    width: 555px;
+    height: 200px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 160px;
+}
+
+.title1{
+    width: 100px;
+    height: 30px;
+    background-color: #7beec7;
+    margin-left: auto;
+    margin-right: auto;
+        
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.title2{
+    height: 100px;
+    
+    border: 10px solid #60606e;
+    padding-left: 30px;
+    
+}
+
+
+.title-st2{
+   color: #60606e;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.title-text{
+    
+    color: #60606e;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2;
+
+    margin-top: 30px;
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.container-content{
+    width: 1140px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 120px;
+    
+}
+
+.text-cont{
+    width: 556px;
+    height: 290px;
+    
+    
+    margin-top: 15px;
+    
+    
+}
+
+.text-title{
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.text{
+    margin-bottom: 50px;
+    color: #69696b;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.text-btn{
+   
+    
+    float: right;
+    background-color: #7beec7;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.text-btn:hover{
+    text-decoration: underline;
+}
+
+.header-content1{
+    width: 1140px;
+    height: 690px;
+    
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cont-title{
+    width: 720px;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.conttitle{
+    
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.cont-title-text{
+    
+    color: #60606e;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+    text-align: center;
+}
+
+.cont1{
+    width: 1140px;
+    height: 500px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cont1-table{
+    width: 561px;
+    height: 444px;
+    margin-top: 20px;
+
+}
+
+.cont1-table1{
+    width: 560px;
+    height: 190px;
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.table1-el1{
+    margin-top: 15px;
+}
+
+.table1-title{
+
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.table-text{
+    
+    list-style: none;
+    padding: 0px;
+}
+
+
+.link{
+    
+    color: #999999;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.cont1-table2{
+    width: 555px;
+    height: 195px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-content2{
+    width: 1140px;
+    height: 1090px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cont2{
+    width: 1140px;
+    height: 900px;
+    margin-top: 100px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.cont2-list{
+    width: 170px;
+    height: 345px;
+    padding: 0;
+}
+
+.cont2-title{
+    
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 50px;
+    text-transform: uppercase;
+    
+}
+
+.list-el{
+
+    list-style: none;
+}
+
+.el{
+    
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.el:hover{
+    color: white;
+    background-color: #7beec7;;
+}
+
+
+.cont2-foto{
+    width: 850px;
+    height: 900px;
+    
+}
+
+
+.header-content3{
+        
+    width: 1300px;
+    height: 330px;
+    background-color: #7beec7;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-left: 84px;
+
+    display: flex;
+    
+    
+}
+
+.fb-panel-l{
+    width: 487px;
+    height: 150px;
+}
+
+
+.fb-text-l{
+    
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;     
+    
+}
+
+
+.fb-btn-l{
+    display: inline;
+    background-color: #ffffff;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+.btn-l-t{
+  
+    color: #7beec7;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 40px;
+}
+
+.btn-l-t:hover{
+    text-decoration: underline;
+}
+
+.fb-panel-r{
+    
+    width: 556px;
+    height: 230px;
+    background-color: #ffffff;
+    margin-left: 100px;
+    padding-left: 25px;
+}
+
+.fb-title{
+    width: 350px;
+    height: 54px;
+}
+
+.fb-title-st{
+        
+    color: #60606e;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+.fb-text-r{
+    width: 480px;
+    height: 40px;
+}
+
+.fb-text-st{
+        
+    color: #999999;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.fb-email-btn{
+        
+    width: 510px;
+    height: 50px;
+    background-color: #7beec7;
+
+    margin-top: 30px;
+}
+
+.fb-email{
+    width: 375px;
+    height: 45px;
+    background-color: #ffffff;
+    border-color: #cdcdcd;;
+
+        
+    color: #cdcdcd;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+.fb-email-btn-st{
+    
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.fb-email-btn-st:hover{
+    text-decoration: underline;
+}
+
+.navig-social{
+    width: 1140px;
+    height: 56px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navig-page{
+    height: 11px;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    
+    color: #9a9a9a;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: uppercase;
+   
+}
+
+.navig-el{
+    margin-left: 15px;
+}
+
+.navig-el:first-child{
+    margin-left: 0;
+}
+
+.navig-link{
+    
+    color: #9a9a9a;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    margin-right: 15px;
+}
+
+.navig-link:hover{
+    text-decoration: underline;
+}
